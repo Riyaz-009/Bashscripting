@@ -1,4 +1,6 @@
 #!/bin/bash
 echo "HElloe word"
-ls -l
+ls 
 pwd
+whoami
+uname
